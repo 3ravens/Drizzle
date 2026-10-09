@@ -1,0 +1,25 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Soft back cloud -->
+    <path
+        android:fillColor="#7EC8E3"
+        android:fillAlpha="0.55"
+        android:pathData="M34,62c-6,0 -11,-5 -11,-11c0,-5.4 3.9,-9.9 9.1,-10.8C33.5,34.4 39.3,30 46,30c8.3,0 15,6.7 15,15c0,0.3 0,0.6 -0.1,0.9C66.9,46.5 72,51.8 72,58.3C72,64.6 66.9,70 60.5,70H38c-2.6,0 -4.7,-2.1 -4.7,-4.7S35.4,62 38,62z" />
+    <!-- Main cloud -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M44,68c-5,0 -9,-4 -9,-9c0,-4.4 3.2,-8.1 7.4,-8.8C43.6,45.5 48.3,42 53.8,42c6.8,0 12.3,5.5 12.3,12.3c0,0.2 0,0.5 -0.1,0.7C70.9,56 74,59.3 74,63.4C74,68.6 69.8,73 64.5,73H47c-2.1,0 -3.9,-1.7 -3.9,-3.9S44.9,65.3 47,65.3z" />
+    <!-- Falling raindrops -->
+    <path
+        android:fillColor="#7EC8E3"
+        android:pathData="M45,75 C46.76,78.5 48.2,80.95 48.2,82 A3.2,3.2 0 0 1 41.8,82 C41.8,80.95 43.24,78.5 45,75 Z" />
+    <path
+        android:fillColor="#7EC8E3"
+        android:pathData="M54,76 C56.09,80 57.8,82.8 57.8,84 A3.8,3.8 0 0 1 50.2,84 C50.2,82.8 51.91,80 54,76 Z" />
+    <path
+        android:fillColor="#7EC8E3"
+        android:pathData="M63,75.5 C64.76,79 66.2,81.45 66.2,82.5 A3.2,3.2 0 0 1 59.8,82.5 C59.8,81.45 61.24,79 63,75.5 Z" />
+</vector>
